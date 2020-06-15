@@ -1,0 +1,53 @@
+.body
+{
+	background: url('../img/background.jpg');
+}
+
+.card-custom {
+	background: transparent;
+	border: none !important;
+}
+
+.logo2
+{
+	width: 230px;
+}
+
+.titleC
+{
+	color: #ff6c00 !important;
+	font-weight: bold;
+}
+
+.regional
+{
+	color: #181817 !important;
+}
+
+
+.thumbnew
+{
+	width: 100%;
+	height: 100%;
+}
+
+
+.thumb-text
+{
+	width: 92%;
+	position: absolute;
+	z-index: 0;
+	height: 90px;
+	bottom: 0;
+	color: #FFF;
+	background: linear-gradient(0, rgba(252, 102, 3, 1), rgba(252, 102, 3, 0));
+}
+
+.thumb-text p
+{
+	position: absolute;
+	bottom: 0;
+	margin-left: 10px;
+	font-size: 1.2em;
+	font-weight: 900;
+}
